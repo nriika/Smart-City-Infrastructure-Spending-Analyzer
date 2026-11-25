@@ -20,9 +20,21 @@ This project follows an end-to-end data analytics workflow, starting with raw da
 
 ## Dashboard Preview
 
-The complete four-page Power BI dashboard is available as a PDF:
+### Executive Summary
 
-**[View Smart City Infrastructure Spending Dashboard (PDF)](reports/Smart_City_Infrastructure_Dashboard.pdf)**
+![Executive Summary](reports/dashboard_page_1.png)
+
+### Annual Trends & Financial Performance
+
+![Annual Trends & Financial Performance](reports/dashboard_page_2.png)
+
+### Department-Wise Expenditure Analysis
+
+![Department-Wise Expenditure Analysis](reports/dashboard_page_3.png)
+
+### Fund-Wise Expenditure Analysis
+
+![Fund-Wise Expenditure Analysis](reports/dashboard_page_4.png)
 
 The interactive Power BI report is also included in the `powerbi` folder, where available.
 
